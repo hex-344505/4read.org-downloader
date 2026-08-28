@@ -17,7 +17,7 @@ from urllib.parse import (
 from concurrent.futures import ThreadPoolExecutor
 
 
-BASE_PLAYLIST_URL = "https://4read.org/m3u/"
+BASE_PLAYLIST_URL = ""
 
 THREADS = 3
 RETRIES = 5
